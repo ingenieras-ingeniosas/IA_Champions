@@ -11,10 +11,11 @@
 		<node id="7" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_train_Eq1" position="(58.0, 163.0)" />
 		<node id="8" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="DNN_Eq2" position="(241.0, 438.0)" />
 		<node id="9" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_test_Eq1" position="(346.0, 222.0)" />
-		<node id="10" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select" position="(661.0, 364.0)" />
-		<node id="11" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select" position="(659.0, 281.0)" />
-		<node id="12" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table" position="(917.0, 313.0)" />
-		<node id="13" name="Merge Data" qualified_name="Orange.widgets.data.owmergedata.OWMergeData" project_name="Orange3" version="" title="Merge Data" position="(785.0, 312.0)" />
+		<node id="10" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select_2" position="(661.0, 364.0)" />
+		<node id="11" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select_1" position="(659.0, 281.0)" />
+		<node id="12" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="output_data" position="(917.0, 313.0)" />
+		<node id="13" name="Merge Data" qualified_name="Orange.widgets.data.owmergedata.OWMergeData" project_name="Orange3" version="" title="merge" position="(785.0, 312.0)" />
+		<node id="14" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="save" position="(923.0, 422.0)" />
 	</nodes>
 	<links>
 		<link id="0" source_node_id="1" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
@@ -30,8 +31,11 @@
 		<link id="10" source_node_id="11" sink_node_id="13" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
 		<link id="11" source_node_id="10" sink_node_id="13" source_channel="Data" sink_channel="Extra Data" enabled="true" source_channel_id="data" sink_channel_id="extra_data" />
 		<link id="12" source_node_id="13" sink_node_id="12" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="13" source_node_id="12" sink_node_id="14" source_channel="Selected Data" sink_channel="Data" enabled="true" source_channel_id="selected_data" sink_channel_id="data" />
 	</links>
-	<annotations />
+	<annotations>
+		<text id="0" type="text/plain" rect="(41.0, 21.0, 537.0, 72.0)" font-family="MS Shell Dlg 2" font-size="16">PREDICCION USANDO NEEP NEURAL NETWORK</text>
+	</annotations>
 	<thumbnail />
 	<node_properties>
 		<properties node_id="0" format="pickle">gASVMhQAAAAAAAB9lCiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjAxyZWNlbnRfcGF0aHOUXZQojB5v
@@ -763,6 +767,7 @@ ZmjMS2Zo1ktmaBNLZmgZS2Z1aBx9lChoX0tmaGBLZmhhS2ZoYktmaGNLZmhkS2ZoZUtmaGZLZmhn
 S2ZoaEtmaGlLZmhqS2Zoa0tmaElLZmhKS2ZoS0tmaExLZmhNS2ZoTktmaE9LZmhQS2ZoUUtmaFJL
 ZmhTS2ZoVEtmaFVLZmg8S2ZoPUtmaD5LZmg/S2ZodUtmaIBLZnV1YmV1Lg==
 </properties>
+		<properties node_id="14" format="literal">{'add_type_annotations': True, 'auto_save': False, 'controlAreaVisible': True, 'filter': 'Comma-separated values (*.csv)', 'savedWidgetGeometry': b"\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x14\x00\x00\x00\xf2\x00\x00\x03(\x00\x00\x01\x90\x00\x00\x02\x15\x00\x00\x01\x10\x00\x00\x03'\x00\x00\x01\x8f\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x02\x15\x00\x00\x01\x10\x00\x00\x03'\x00\x00\x01\x8f", 'stored_name': 'dnn_goal_prediction.csv', 'stored_path': '.', '__version__': 3}</properties>
 	</node_properties>
 	<session_state>
 		<window_groups />

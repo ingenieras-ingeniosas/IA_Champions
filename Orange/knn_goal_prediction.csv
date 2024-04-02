@@ -1,0 +1,19 @@
+Match_ID,Nombre_Eq1,Nombre_Eq2,kNN_1,kNN_2
+continuous,string,string,continuous,continuous
+meta,meta,meta,meta,meta
+1,fr Paris S-G,es Real Sociedad,1.28571,1
+2,es Real Sociedad,fr Paris S-G,0.571429,1.85714
+3,dk FC Copenhagen,eng Manchester City,1,0.857143
+4,eng Manchester City,dk FC Copenhagen,3.42857,0.571429
+5,es Barcelona,it Napoli,1.71429,1.85714
+6,it Napoli,es Barcelona,1,2.28571
+7,it Inter,es Atlético Madrid,1,2.14286
+8,es Atlético Madrid,it Inter,0.571429,2
+9,de Dortmund,nl PSV Eindhoven,1.28571,2
+10,nl PSV Eindhoven,de Dortmund,0.857143,2.14286
+11,it Lazio,de Bayern Munich,0.714286,2
+12,de Bayern Munich,it Lazio,2.42857,0.857143
+13,eng Arsenal,pt Porto,1.14286,2.42857
+14,pt Porto,eng Arsenal,1.85714,1.85714
+15,es Real Madrid,RB Leipzig,2,0.714286
+16,RB Leipzig,es Real Madrid,0.857143,1.42857
