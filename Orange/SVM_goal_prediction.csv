@@ -1,0 +1,53 @@
+Match_ID,Nombre_Eq1,SVM_eq1,Nombre_Eq2,Fold,SVM_eq2
+continuous,string,continuous,string,1 2 3 4 5 6 7 8 9 10,continuous
+meta,meta,meta,meta,meta,meta
+1,fr Paris S-G,2.25353,es Real Sociedad,1,0.74045
+2,es Real Sociedad,1.11286,fr Paris S-G,1,0.316572
+6,it Napoli,0.792648,es Barcelona,1,0.582276
+15,es Real Madrid,2.19336,RB Leipzig,1,0.65572
+14,pt Porto,1.32083,eng Arsenal,1,0.389296
+7,it Inter,1.30904,es Atlético Madrid,2,0.654106
+3,dk FC Copenhagen,1.31036,eng Manchester City,2,0.671865
+9,de Dortmund,1.89877,nl PSV Eindhoven,2,0.850088
+14,pt Porto,1.33495,eng Arsenal,2,0.331147
+10,nl PSV Eindhoven,1.45936,de Dortmund,2,0.61664
+2,es Real Sociedad,1.00227,fr Paris S-G,3,0.419899
+14,pt Porto,1.24689,eng Arsenal,3,0.366578
+9,de Dortmund,1.49907,nl PSV Eindhoven,3,0.52483
+6,it Napoli,0.807577,es Barcelona,3,0.67706
+5,es Barcelona,1.98572,it Napoli,3,0.602536
+1,fr Paris S-G,2.15917,es Real Sociedad,4,0.604551
+6,it Napoli,0.867643,es Barcelona,4,0.459836
+3,dk FC Copenhagen,1.48386,eng Manchester City,4,0.523858
+15,es Real Madrid,2.07602,RB Leipzig,4,0.557316
+13,eng Arsenal,1.36312,pt Porto,4,0.286361
+15,es Real Madrid,2.01242,RB Leipzig,5,0.31741
+11,it Lazio,1.35032,de Bayern Munich,5,0.952469
+5,es Barcelona,2.33719,it Napoli,5,0.305193
+16,RB Leipzig,1.18905,es Real Madrid,5,1.19543
+6,it Napoli,1.02833,es Barcelona,5,1.04761
+3,dk FC Copenhagen,1.29013,eng Manchester City,6,0.678082
+9,de Dortmund,1.50583,nl PSV Eindhoven,6,0.768818
+5,es Barcelona,2.07493,it Napoli,6,0.651832
+13,eng Arsenal,1.26238,pt Porto,6,0.376521
+1,fr Paris S-G,1.77676,es Real Sociedad,6,0.623725
+15,es Real Madrid,1.79048,RB Leipzig,7,0.40169
+14,pt Porto,1.25376,eng Arsenal,7,0.288579
+3,dk FC Copenhagen,1.23445,eng Manchester City,7,0.457224
+4,eng Manchester City,1.64467,dk FC Copenhagen,7,0.526278
+6,it Napoli,0.882378,es Barcelona,7,0.473506
+12,de Bayern Munich,1.91912,it Lazio,8,0.59126
+10,nl PSV Eindhoven,1.33371,de Dortmund,8,0.471533
+14,pt Porto,1.24715,eng Arsenal,8,0.297984
+6,it Napoli,0.84215,es Barcelona,8,0.654019
+9,de Dortmund,1.55992,nl PSV Eindhoven,8,0.869382
+4,eng Manchester City,1.31615,dk FC Copenhagen,9,0.713244
+2,es Real Sociedad,0.974815,fr Paris S-G,9,0.504637
+12,de Bayern Munich,1.76982,it Lazio,9,0.612664
+9,de Dortmund,1.50072,nl PSV Eindhoven,9,0.73467
+14,pt Porto,1.15989,eng Arsenal,9,0.371563
+13,eng Arsenal,1.39431,pt Porto,10,0.747985
+14,pt Porto,1.36304,eng Arsenal,10,0.743887
+2,es Real Sociedad,1.1091,fr Paris S-G,10,0.329991
+6,it Napoli,0.890884,es Barcelona,10,0.590814
+4,eng Manchester City,1.42967,dk FC Copenhagen,10,0.776874

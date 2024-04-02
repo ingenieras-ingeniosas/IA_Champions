@@ -1,0 +1,4 @@
+Match_ID,Nombre_Eq1,SVM_eq1,Nombre_Eq2,Fold,SVM_eq2
+continuous,string,continuous,string,1 2 3 4 5 6 7 8 9 10,continuous
+meta,meta,meta,meta,meta,meta
+13,eng Arsenal,1.36312,pt Porto,4,0.286361
