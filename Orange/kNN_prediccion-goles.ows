@@ -7,7 +7,7 @@
 		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Predict_gol_Eq2 (1)" position="(567.0, 441.0)" />
 		<node id="4" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="Predictions_Eq1 (1)" position="(462.0, 167.0)" />
 		<node id="5" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Predict_gol_Eq1 (1)" position="(562.0, 168.0)" />
-		<node id="6" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_train_Eq1 (1)" position="(63.0, 157.0)" />
+		<node id="6" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_train_Eq1 (1)" position="(66.0, 153.0)" />
 		<node id="7" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_test_Eq1 (1)" position="(351.0, 216.0)" />
 		<node id="8" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select_2" position="(666.0, 358.0)" />
 		<node id="9" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select_1" position="(664.0, 275.0)" />
