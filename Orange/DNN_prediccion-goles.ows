@@ -2,7 +2,7 @@
 <scheme version="2.0" title="" description="">
 	<nodes>
 		<node id="0" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_train_Eq2" position="(58.0, 437.0)" />
-		<node id="1" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_test_Eq2" position="(358.0, 510.0)" />
+		<node id="1" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="octavos_Eq2" position="(358.0, 510.0)" />
 		<node id="2" name="Predictions" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" project_name="Orange3" version="" title="Predictions_Eq2" position="(469.0, 448.0)" />
 		<node id="3" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Predict_gol_Eq2" position="(562.0, 447.0)" />
 		<node id="4" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="DNN_Eq1" position="(240.0, 162.0)" />
@@ -10,7 +10,7 @@
 		<node id="6" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Predict_gol_Eq1" position="(557.0, 174.0)" />
 		<node id="7" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_train_Eq1" position="(58.0, 163.0)" />
 		<node id="8" name="Neural Network" qualified_name="Orange.widgets.model.owneuralnetwork.OWNNLearner" project_name="Orange3" version="" title="DNN_Eq2" position="(241.0, 438.0)" />
-		<node id="9" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="data_test_Eq1" position="(346.0, 222.0)" />
+		<node id="9" name="File" qualified_name="Orange.widgets.data.owfile.OWFile" project_name="Orange3" version="" title="octavos_Eq1" position="(346.0, 222.0)" />
 		<node id="10" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select_2" position="(661.0, 364.0)" />
 		<node id="11" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="select_1" position="(659.0, 281.0)" />
 		<node id="12" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="output_data" position="(917.0, 313.0)" />
@@ -662,7 +662,7 @@ aAdLAXVogn2UKGgaSwJoHUsCaCBLAmgjSwJoJksCaClLAmgsSwJoL0sCaDJLAmg1SwJoOEsCaDtL
 Amg+SwJoQUsCaERLAmhHSwJoSksCaE1LAmhQSwJoU0sCaFZLAmhZSwJoXEsCaF9LAmhiSwJoZUsC
 aGhLAmhrSwJobksCaHFLAmgXSwJ1aIR9lChodEsCamUBAABLAnV1YmV1Lg==
 </properties>
-		<properties node_id="12" format="literal">{'auto_commit': False, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x98\x00\x00\x00v\x00\x00\x03\xb0\x00\x00\x02M\x00\x00\x00\x99\x00\x00\x00\x94\x00\x00\x03\xaf\x00\x00\x02L\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x99\x00\x00\x00\x94\x00\x00\x03\xaf\x00\x00\x02L', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], 'columns': [0, 1, 2, 3, 4]}, 'stored_sort': [('Match_ID', 1)], '__version__': 1}</properties>
+		<properties node_id="12" format="literal">{'auto_commit': False, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x98\x00\x00\x00v\x00\x00\x03\xb0\x00\x00\x02M\x00\x00\x00\x99\x00\x00\x00\x94\x00\x00\x03\xaf\x00\x00\x02L\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x99\x00\x00\x00\x94\x00\x00\x03\xaf\x00\x00\x02L', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
 		<properties node_id="13" format="pickle">gASV6BYAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMB21lcmdp
 bmeUSwKME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAbkAAAC+AAADIAAAAcUAAAG6
 AAAA3AAAAx8AAAHEAAAAAAAAAAAFAAAAAboAAADcAAADHwAAAcSUjAtfX3ZlcnNpb25fX5RLAowQ

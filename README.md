@@ -1,7 +1,5 @@
 link repo: https://github.com/ingenieras-ingeniosas/IA_Champions
 
 # Predicción ganador UEFA Champions League 23-24
-- *Regresión Lineal*: **Man. City**
-- *Árbol Regresión*: 
-- *Red Nueronal*: **Man. City**
-- *Red Neuronal Convolucional*:
+
+![UEFA Champions League](data/predicciones/fases_finales_23_24.png)
