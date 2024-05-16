@@ -7,7 +7,7 @@ link repo: https://github.com/ingenieras-ingeniosas/IA_Champions
 
 ### Datos entrenamiento
 - Estadísticas UCL 22/23 (todas)
-- Estadísticas UCL 22/23 (fase grupos)
+- Estadísticas UCL 23/24 (fase grupos)
 - Estadísticas liga nacional 22/23
 - Estadísticas liga nacional 23/24 (hasta la fecha)
 
