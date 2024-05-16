@@ -16,7 +16,7 @@ Ponderación Ligas Nacionales:
 - Tier (NL, DEN, PT) : $0.67*Est_Nac$
   
 Ponderación con UCL:
-$$ \frac{Est_UCL + 0.5*Est_Nac}{2} $$
+$ \frac{Est_UCL + 0.5*Est_Nac}{2} $
 
 
 ### Datos evaluación
